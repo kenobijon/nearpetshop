@@ -1,13 +1,14 @@
-# NEAR Smart Contract Rust Template
+# NEAR Pet Shop Smart Contract
 
-Project structure for writing smart contracts in Rust for NEAR Protocol
+Sample Pet Shop Contract based upon popular [Truffle Pet Shop Tutorial](https://trufflesuite.com/tutorial/)
+
 
 # Required Software
 
-- Rust 1.58 + cargo
+- Rust 1.61.1 + cargo
 - Node.js
-- NEAR CLI 3.1
+- NEAR CLI 3.4
 
 # Authors
 
-- Jacob Lindahl <jacob@near.foundation> [@sudo_build](https://twitter.com/sudo_build)
+- Ken Miyachi <ken@near.foundation> 

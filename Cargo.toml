@@ -1,8 +1,8 @@
 [package]
-name = "near-smart-contract-rust-template"
+name = "pet_shop_contract"
 version = "0.1.0"
 edition = "2021"
-authors = ["Jacob Lindahl <jacob@near.foundation>"]
+authors = ["Ken Miyachi <ken@near.foundation>"]
 
 [dependencies]
 near-sdk = "4.0.0-pre.7"
